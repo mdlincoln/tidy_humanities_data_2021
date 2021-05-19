@@ -74,8 +74,6 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 | 3:00-4:00       | Data design + open refine tips                    |
 | 4:00-5:00       | Optional 1-on-1 consults                          |
 
-- [OpenRefine]({{ site.baseurl }}{% link _units/open_refine.md %})
-
 ### Readings
 
 Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Computational Modeling of the Phenomenal World.” In The Routledge Companion to Digital Humanities and Art History, edited by Kathryn Brown, 358–73. Routledge Art History and Visual Studies Companions. New York: Routledge, 2020. DOI: [10.4324/9780429505188-31](https://doi.org/10.4324/9780429505188-31). ([PDF download][proxies])
