@@ -1,0 +1,34 @@
+title: Tidy Data for Humanists
+subtitle:
+email: mlincoln@andrew.cmu.edu
+description: |
+  How do we “clean” complex humanities knowledge, especially when we may not yet know what kind of analysis we eventually want to do?
+baseurl: '/tidy_humanities_data'
+twitter_username: matthewdlincoln
+github_username: mdlincoln
+
+# Build settings
+theme: minima
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+collections:
+  units:
+    output: true
+
+defaults:
+  - scope:
+      type: units
+    values:
+      layout: units
+      permalink: units/:slug:output_ext
