@@ -5,8 +5,11 @@ title: Schedule
 
 *All times EDT (GMT+5)*
 
-## Monday, June 14
+* TOC
+{:toc}
 
+
+## Monday, June 14
 
 ### Reading
 
@@ -38,6 +41,8 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 Merry, Mark. *Designing Databases for Historical Research*. London: Institute of Historical Research, University of London, 2015. http://port.sas.ac.uk/mod/book/view.php?id=75. (Section C1-C4, Section D & E)
 
+### Schedule
+
 | Time            | Activity                                      |
 | --------------- | --------------------------------------------- |
 | 9:00am-10:00am  | Optional 1-on-1 consults                      |
@@ -61,6 +66,8 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 
 [phor]: https://doi.org/10.46430/phen0023
 
+### Schedule
+
 | Time            | Activity                                          |
 | --------------- | ------------------------------------------------- |
 | 9:00am-10:00am  | Optional 1-on-1 consults                          |
@@ -74,13 +81,15 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 | 3:00-4:00       | Data design + open refine tips                    |
 | 4:00-5:00       | Optional 1-on-1 consults                          |
 
-### Readings
+## Thursday, June 17
+
+### Reading
 
 Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Computational Modeling of the Phenomenal World.” In The Routledge Companion to Digital Humanities and Art History, edited by Kathryn Brown, 358–73. Routledge Art History and Visual Studies Companions. New York: Routledge, 2020. DOI: [10.4324/9780429505188-31](https://doi.org/10.4324/9780429505188-31). ([PDF download][proxies])
 
 [proxies]: https://cmu.box.com/s/bib2twnwu37756ypcvt77qltc6w9rsvh
 
-## Thursday, June 17
+### Schedule
 
 | Time            | Activity                                      |
 | --------------- | --------------------------------------------- |
