@@ -22,8 +22,8 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 | Time                | Activity                                                                            |
 | ------------------- | ----------------------------------------------------------------------------------- |
 | 9:00am-10:00am      | Dream Lab Welcome                                                                   |
-| 10:15am-10:30am     | Tidy Data Orientation                                                               |
-| **10:30am-10:45am** | **Break**                                                                           |
+| **10:00am-10:15am** | **Break**                                                                           |
+| 10:15am-10:45am     | Tidy Data Orientation                                                               |
 | 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}/units/data_commonalities.html)   |
 | **12:00pm-1:00pm**  | **Break**                                                                           |
 | 1:00pm-1:20pm       | Palladio introduction                                                               |
