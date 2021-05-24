@@ -10,6 +10,14 @@ github_username: mdlincoln
 # Build settings
 theme: minima
 
+defaults:
+  - scope:
+      path: units
+    values:
+      layout: unit
+
+permalink: /:path
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -21,14 +29,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
-collections:
-  units:
-    output: true
-
-defaults:
-  - scope:
-      type: units
-    values:
-      layout: units
-      permalink: units/:slug:output_ext
+  - README.md

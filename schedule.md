@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Schedule
+show_in_header: true
+weight: 0
 ---
 
 *All times EDT (GMT+5)*
@@ -17,21 +19,21 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 ### Schedule
 
-| Time                | Activity                                           |
-| ------------------- | -------------------------------------------------- |
-| 9:00am-10:00am      | Dream Lab Welcome                                  |
-| 10:15am-10:45am     | Tidy Data Orientation                              |
-| **10:45am-11:00am** | **Break**                                          |
-| 11:00am-12:00pm     | Data Commonalities Icebreaker                      |
-| **12:00pm-1:00**    | **Break**                                          |
-| 1:00am-1:20am       | Palladio introduction                              |
-| 1:20am-2:40         | [Palladio exercise (group work or solo)][Palladio] |
-| **2:40-3:00**       | **Break**                                          |
-| 3:00-4:00           | [Rawson & Muñoz 2019][rawson] discussion           |
-| 4:00-5:00           | Optional 1-on-1 consults                           |
-| *5:00-6:00*         | Dream Lab Keynote                                  |
+| Time                | Activity                                                                            |
+| ------------------- | ----------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | Dream Lab Welcome                                                                   |
+| 10:15am-10:30am     | Tidy Data Orientation                                                               |
+| **10:30am-10:45am** | **Break**                                                                           |
+| 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}/units/data_commonalities.html)   |
+| **12:00pm-1:00pm**  | **Break**                                                                           |
+| 1:00pm-1:20pm       | Palladio introduction                                                               |
+| 1:20pm-2:40pm       | [Palladio exercise (group work or solo)][Palladio]                                  |
+| **2:40pm-3:00pm**   | **Break**                                                                           |
+| 3:00pm-4:00pm       | [Rawson & Muñoz 2019][rawson] discussion                                            |
+| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults]({{ site.baseurl }}/office_hours.html)                  |
+| 5:00pm-6:30pm       | Dream Lab Keynote: [Marisa Parham](https://english.umd.edu/directory/marisa-parham) |
 
-[Palladio]: /mapping-knoedler-palladio/
+[Palladio]: https://matthewlincoln.net/mapping-knoedler-palladio/
 
 [rawson]: https://doi.org/10.5749/j.ctvg251hk.26
 
@@ -43,17 +45,19 @@ Merry, Mark. *Designing Databases for Historical Research*. London: Institute of
 
 ### Schedule
 
-| Time            | Activity                                      |
-| --------------- | --------------------------------------------- |
-| 9:00am-10:00am  | Optional 1-on-1 consults                      |
-| 10:00-10:45     | Data types (text, numbers, dates, categories) |
-| **10:45-11:00** | **Break**                                     |
-| 11:00-12:00     | Data types (dates)                            |
-| **12:00-1:00**  | **Break**                                     |
-| 1:00-2:30       | Data design exercise                          |
-| **2:30-3:00**   | **Break**                                     |
-| 3:00-4:00       | Data design share-out & comparison            |
-| 4:00-5:00       | Optional 1-on-1 consults                      |
+| Time                | Activity                                                           |
+| ------------------- | ------------------------------------------------------------------ |
+| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults]({{ site.baseurl }}/office_hours.html) |
+| 10:00am-11:00am     | Data types (text, numbers, dates, categories)                      |
+| **11:00am-11:15am** | **Break**                                                          |
+| 11:15am-12:00pm     | Relational Data Design Intro (reviewing Merry 2015)                |
+| **12:00pm-1:00pm**  | **Break**                                                          |
+| 1:00pm-2:30pm       | Data design breakout group exercise                                |
+| **2:30-3:00**       | **Break**                                                          |
+| 3:00pm-4:00pm       | Data design share-out & comparison                                 |
+| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults]({{ site.baseurl }}/office_hours.html) |
+| 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                            |
+
 
 
 ## Wednesday, June 16
@@ -68,18 +72,19 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 
 ### Schedule
 
-| Time            | Activity                                          |
-| --------------- | ------------------------------------------------- |
-| 9:00am-10:00am  | Optional 1-on-1 consults                          |
-| 10:00-11:00am   | [Posner 2015][posner] discussion                  |
-| **11:00-11:15** | **Break**                                         |
-| 11:15-12:00     | Identifying data messes                           |
-| **12:00-1:00**  | **Break**                                         |
-| 1:00-1:20       | Intro to Open Refine                              |
-| 1:20-2:40       | [Open Refine Exercise (group work or solo)][phor] |
-| **2:40-3:00**   | **Break**                                         |
-| 3:00-4:00       | Data design + open refine tips                    |
-| 4:00-5:00       | Optional 1-on-1 consults                          |
+| Time                | Activity                                                           |
+| ------------------- | ------------------------------------------------------------------ |
+| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults]({{ site.baseurl }}/office_hours.html) |
+| 10:00-11:00am       | [Posner 2015][posner] discussion                                   |
+| **11:00am-11:15am** | **Break**                                                          |
+| 11:15am-12:00pm     | Identifying data messes                                            |
+| **12:00pm-1:00pm**  | **Break**                                                          |
+| 1:00pm-1:20pm       | Intro to Open Refine                                               |
+| 1:20pm-2:40pm       | [Open Refine Exercise (group work or solo)][phor]                  |
+| **2:40pm-3:00pm**   | **Break**                                                          |
+| 3:00pm-4:00pm       | Open Refine reactions and tips                                     |
+| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults]({{ site.baseurl }}/office_hours.html) |
+| 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                            |
 
 ## Thursday, June 17
 
@@ -91,13 +96,13 @@ Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Co
 
 ### Schedule
 
-| Time            | Activity                                      |
-| --------------- | --------------------------------------------- |
-| 9:00am-10:00am  | Optional 1-on-1 consults                      |
-| 10:00-11:00am   | [Langmead & Newbury 2020 discussion][proxies] |
-| **11:00-11:15** | **Break**                                     |
-| 11:15-12:00     | Linked Data                                   |
-| **12:00-1:00**  | **Break**                                     |
-| 1:00-3:00       | Open questions TBD?                           |
-| **2:40-3:00**   | **Break**                                     |
-| 3:00-4:30       | Dream Lab Closing Workshop                    |
+| Time                | Activity                                                           |
+| ------------------- | ------------------------------------------------------------------ |
+| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults]({{ site.baseurl }}/office_hours.html) |
+| 10:00am-11:00am     | [Langmead & Newbury 2020 discussion][proxies]                      |
+| **11:00am-11:15am** | **Break**                                                          |
+| 11:15am-12:00pm     | Linked Data TBD (reconciling with open refine?)                    |
+| **12:00pm-1:00pm**  | **Break**                                                          |
+| 1:00pm-2:40pm       | TBD based on class vote                                            |
+| **2:40pm-3:00pm**   | **Break**                                                          |
+| 3:00pm-4:30pm       | Dream Lab Closing Share-Out                                        |
