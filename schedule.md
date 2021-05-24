@@ -41,7 +41,7 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 ### Reading
 
-Merry, Mark. *Designing Databases for Historical Research*. London: Institute of Historical Research, University of London, 2015. http://port.sas.ac.uk/mod/book/view.php?id=75. (Section C1-C4, Section D & E)
+Merry, Mark. *Designing Databases for Historical Research*. London: Institute of Historical Research, University of London, 2015. <http://port.sas.ac.uk/mod/book/view.php?id=75>. (Section C1-C4, Section D & E)
 
 ### Schedule
 
@@ -64,7 +64,7 @@ Merry, Mark. *Designing Databases for Historical Research*. London: Institute of
 
 ### Reading
 
-Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital Humanities.” Miriam Posner’s Blog (blog), July 27, 2015. https://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/.
+Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital Humanities.” Miriam Posner’s Blog (blog), July 27, 2015. <https://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/>.
 
 [posner]: https://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/
 
