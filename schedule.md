@@ -19,21 +19,20 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 ### Schedule
 
-| Time                | Activity                                                                            |
-| ------------------- | ----------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | Dream Lab Welcome                                                                   |
-| **10:00am-10:15am** | **Break**                                                                           |
-| 10:15am-10:45am     | Tidy Data Orientation                                                               |
-| 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}/units/data_commonalities.html)   |
-| **12:00pm-1:00pm**  | **Break**                                                                           |
-| 1:00pm-1:20pm       | Palladio introduction                                                               |
-| 1:20pm-2:40pm       | [Palladio exercise (group work or solo)][Palladio]                                  |
-| **2:40pm-3:00pm**   | **Break**                                                                           |
-| 3:00pm-4:00pm       | [Rawson & Muñoz 2019][rawson] discussion                                            |
-| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults]({{ site.baseurl }}/office_hours.html)                  |
-| 5:00pm-6:30pm       | Dream Lab Keynote: [Marisa Parham](https://english.umd.edu/directory/marisa-parham) |
+| Time                | Activity                                                                                  |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | Dream Lab Welcome                                                                         |
+| **10:00am-10:15am** | **Break**                                                                                 |
+| 10:15am-10:45am     | Tidy Data Orientation                                                                     |
+| 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}{% link units/data_commonalities.md %}) |
+| **12:00pm-1:00pm**  | **Break**                                                                                 |
+| 1:00pm-1:20pm       | Palladio introduction                                                                     |
+| 1:20pm-2:40pm       | [Palladio exercise (group work or solo)]({{ site.baseurl }}{% link units/palladio.md %})  |
+| **2:40pm-3:00pm**   | **Break**                                                                                 |
+| 3:00pm-4:00pm       | [Rawson & Muñoz 2019][rawson] discussion                                                  |
+| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults]({{ site.baseurl }}/office_hours.html)                        |
+| 5:00pm-6:30pm       | Dream Lab Keynote: [Marisa Parham](https://english.umd.edu/directory/marisa-parham)       |
 
-[Palladio]: https://matthewlincoln.net/mapping-knoedler-palladio/
 
 [rawson]: https://doi.org/10.5749/j.ctvg251hk.26
 
