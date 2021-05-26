@@ -10,7 +10,7 @@ In this exercise we will work in breakout groups to collect the different kinds 
 
 ## Part 1 - Getting to Know Each Other
 
-Open up the "Data Commonalities Demo" Miro board (link will be shared in Discord) and navigate to your breakout group area.
+Open up the ["Data Commonalities Demo" Miro board](https://miro.com/app/board/o9J_lCq85_I=/) and navigate to your breakout group area.
 
 Each group member should take 3 minutes to introduce themselves and describe a project they are working on or a subject they are interested in. While they talk, other members should add sticky notes in their box noting any key words or concepts that might be collected for their data.
 

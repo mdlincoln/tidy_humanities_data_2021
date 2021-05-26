@@ -16,12 +16,3 @@ Many tools and tutorials promise to help you clean up your messy data, which is 
 Participants will come out of this class understanding how to create a data plan to capture the parts of their sources that are going to be important for their research questions, handle complex relationships and uncertainty, and format that information into tidy data that can then be reshaped as needed to drive databases, websites, analyses, and visualizations.
 
 ## [Go to the course schedule]({{ site.baseurl }}{% link schedule.md %})
-
-## Preparation
-
-You will need to sign up for a *free* [Miro account](https://miro.com) where we will run most of our virtual whiteboards for the different class discussions and exercises.
-
-Matt will email a link to the Zoom room and to the Discord server that will be our text-based chat for our class (and the space where you will get to chat with members of the other Dream Lab classes)
-
-## Tips
-

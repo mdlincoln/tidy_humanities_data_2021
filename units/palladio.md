@@ -14,7 +14,7 @@ description: |
 
 This walkthrough will take you step by step through several tasks in Palladio that you can do on your own before the class meeting. Each step includes a series of reflection questions, both about what we think the data could be telling us, but also what might be missing or mis-represented in the data. This exercise is more about learning how to use Palladio to **critically investigate data generated from historical documents** than it is about finding new historical insights. You will also likely come up with questions about the data that don't seem to be answered by the data documentation in this lesson. This is a real-life situation you'll find yourself in when working with data produced by others. **Figuring out what questions you would like to ask of the original data producers is a crucial part of critical data investigation.**
 
-Make sure to record answers to these questions in a word document or notebook to have available for our discussion during class.
+[**Record your reactions in the Miro board for this exercise.**](https://miro.com/app/board/o9J_lC_vrZQ=/)
 
 Some practical tips from [Miriam Posner](http://miriamposner.com/blog/getting-started-with-palladio/) before we begin:
 
