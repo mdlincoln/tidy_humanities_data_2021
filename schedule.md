@@ -126,13 +126,13 @@ Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Co
 
 ### Schedule
 
-| Time                | Activity                                        |
-| ------------------- | ----------------------------------------------- |
-| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]          |
-| 10:00am-11:00am     | [Langmead & Newbury 2020 discussion][proxies]   |
-| **11:00am-11:15am** | **Break**                                       |
-| 11:15am-12:00pm     | Linked Data TBD (reconciling with open refine?) |
-| **12:00pm-1:00pm**  | **Break**                                       |
-| 1:00pm-2:40pm       | TBD based on class vote                         |
-| **2:40pm-3:00pm**   | **Break**                                       |
-| 3:00pm-4:30pm       | Dream Lab Closing Share-Out                     |
+| Time                | Activity                                                                           |
+| ------------------- | ---------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                             |
+| 10:00am-11:00am     | [Langmead & Newbury 2020 discussion][proxies]                                      |
+| **11:00am-11:15am** | **Break**                                                                          |
+| 11:15am-12:00pm     | [Research talk by S.E. Hackney]({{ site.baseurl }}{% link units/hackney_talk.md%}) |
+| **12:00pm-1:00pm**  | **Break**                                                                          |
+| 1:00pm-2:40pm       | TBD based on class vote                                                            |
+| **2:40pm-3:00pm**   | **Break**                                                                          |
+| 3:00pm-4:30pm       | Dream Lab Closing Share-Out                                                        |
