@@ -18,7 +18,7 @@ weight: 0
 
 [consults]: {{ site.baseurl }}{% link office_hours.md %}
 
-*All times EDT (GMT+5)*
+*All times EDT (UTC-4)*
 
 ## On-Zoom vs. Off-Zoom participation
 
