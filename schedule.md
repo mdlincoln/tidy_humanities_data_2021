@@ -14,7 +14,7 @@ weight: 0
 2. Please sign up for a free account on [Miro](https://miro.com), the virutal whiteboard system that we will be using extensively during the course. (Invite links to our Miro space are in your email.)
 3. Please [follow the instructions to install OpenRefine](https://docs.openrefine.org/manual/installing) on your own computer.
 4. We have a relatively short reading for each day of the course - as with all classes, it'll be most helpful for you to do the reading prior to our discussion!
-5. If you are interested, sign up for a [1-on-1 data consultation slot][consults].
+5. If you are interested, sign up for one of our limited [1-on-1 data consultation slot][consults].
 
 [consults]: {{ site.baseurl }}{% link office_hours.md %}
 
@@ -74,18 +74,18 @@ Merry, Mark. *Designing Databases for Historical Research*. London: Institute of
 
 ### Schedule
 
-| Time                | Activity                                                                                 |
-| ------------------- | ---------------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                                   |
-| 10:00am-11:00am     | Data types (text, numbers, dates, categories)                                            |
-| **11:00am-11:15am** | **Break**                                                                                |
-| 11:15am-12:00pm     | Relational Data Design Intro (reviewing Merry 2015)                                      |
-| **12:00pm-1:00pm**  | **Break**                                                                                |
-| 1:00pm-2:30pm       | [Data design breakout group exercise]({{ site.baseurl }}{% link units/data_design.md %}) |
-| **2:30-3:00**       | **Break**                                                                                |
-| 3:00pm-4:00pm       | Data design share-out & comparison                                                       |
-| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                   |
-| 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                                                  |
+| Time                | Activity                                                                                                                      |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                                                                        |
+| 10:00am-11:00am     | [Data types (text, numbers, dates, categories, missing & uncertain info)]({{ site.baseurl }}{% link units/data_types.md %})   |
+| **11:00am-11:15am** | **Break**                                                                                                                     |
+| 11:15am-12:00pm     | [Relational Data Design Intro (reviewing Merry 2015)](https://miro.com/app/board/o9J_lBYeuh4=/)                               |
+| **12:00pm-1:00pm**  | **Break**                                                                                                                     |
+| 1:00pm-2:30pm       | [Data design breakout group exercise (group work \[recommended\] or solo)]({{ site.baseurl }}{% link units/data_design.md %}) |
+| **2:30-3:00**       | **Break**                                                                                                                     |
+| 3:00pm-4:00pm       | Data design share-out & comparison                                                                                            |
+| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                                                        |
+| 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                                                                                       |
 
 
 

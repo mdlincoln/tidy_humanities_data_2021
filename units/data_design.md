@@ -5,7 +5,7 @@ description: |
   Learning how to design relational data with interlinked tables
 ---
 
-Goal: to create a data design that represents the information contained in this catalog of an auction of paintings:
+Goal: to create a data design that can represent the information contained in this catalog of an auction of paintings:
 
 <https://archive.org/details/catalogueofhighl00chri/page/n13/mode/2up>
 
@@ -27,9 +27,10 @@ With your group, use the "mind map" tool in Miro to build out a data design that
 2. Attributes: each entity will have attributes - text, categorical, numerical, or date data inherent to that entity. For example, a `person` entity may have `name` and `birth_date` attributes. Each attribute represents a column in that entity's table
 ![Attributes example]({{ site.baseurl }}/assets/img/attributes.png)
    1. *Every entity must have an `id` attribute* - a unique string or number that represents that entity, and which can be referred to from other tables.
-   2. Some attributes may point to other entities, such as a person's `active_location` attribute referencing a `Location` entity, that has its own additional attributes. In traditional database parlance, this is called a "foreign key relation".
+3. Some attributes may point to other entities, such as a person's `active_location` attribute referencing a `Location` entity, that has its own additional attributes. In traditional database parlance, this is called a "foreign key relation".
    ![Attribute relational reference]({{ site.baseurl }}/assets/img/entity_relation.png)
 
+Remember, the goal isn't to actually enter all the data into tables, but to try and come up with the *set of tables* that could do the job right. That said, make sure to test out your data design by using the table tool in Miro to create the tables with the appropriate columns and try to fill out a few rows.
 
 Consider Mark Merry's source-oriented <-> method oriented axis of historical database design: will you try to create a data design that will capture every single eccentricity of the original printed and hand-annotated auction catalogue? Or will you make a focused database that only collects the information vital to your chosen question? As Merry suggests, you will likely choose a middle path.
 

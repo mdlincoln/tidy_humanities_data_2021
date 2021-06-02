@@ -18,8 +18,7 @@ This walkthrough will take you step by step through several tasks in Palladio th
 
 Some practical tips from [Miriam Posner](http://miriamposner.com/blog/getting-started-with-palladio/) before we begin:
 
->A reminder that Palladio is still under development, so it can be buggy
-and slow!
+>A reminder that Palladio is still under development, so it can be buggy and slow!
 >
 >-   Work slowly. Wait for an option to finish loading before you click it again or click something else.
 >
