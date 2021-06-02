@@ -31,7 +31,6 @@ Each day, the Dream Lab leaders will be hosting short "coffee breaks" on the **W
 | Daily Coffee Break Times |
 | ------------------------ |
 | 8am-9am                  |
-| 10:30am-11:00am          |
 | 3:00pm-3:30pm            |
 
 There are also scheduled "happy hour" virtual gatherings on Tuesday and Wednesday evenings, which I've marked on the schedule below.
@@ -50,19 +49,19 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 ### Schedule
 
-| Time                | Activity                                                                                  |
-| ------------------- | ----------------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | Dream Lab Welcome                                                                         |
-| **10:00am-10:15am** | **Break**                                                                                 |
-| 10:15am-10:45am     | Tidy Data Orientation                                                                     |
-| 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}{% link units/data_commonalities.md %}) |
-| **12:00pm-1:00pm**  | **Break**                                                                                 |
-| 1:00pm-1:20pm       | Palladio introduction                                                                     |
-| 1:20pm-2:40pm       | [Palladio exercise (group work or solo)]({{ site.baseurl }}{% link units/palladio.md %})  |
-| **2:40pm-3:00pm**   | **Break**                                                                                 |
-| 3:00pm-4:00pm       | [Rawson & Muñoz 2019 discussion](https://miro.com/app/board/o9J_lCzO_X0=/)                |
-| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                    |
-| 5:00pm-6:30pm       | Dream Lab Keynote: [Marisa Parham](https://english.umd.edu/directory/marisa-parham)       |
+| Time                | Activity                                                                                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | Dream Lab Welcome (Zoom link sent by email and on Discord)                                                                   |
+| **10:00am-10:15am** | **Break**                                                                                                                    |
+| 10:15am-10:45am     | Tidy Data Orientation                                                                                                        |
+| 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}{% link units/data_commonalities.md %})                                    |
+| **12:00pm-1:00pm**  | **Break**                                                                                                                    |
+| 1:00pm-1:20pm       | Palladio introduction                                                                                                        |
+| 1:20pm-2:40pm       | [Palladio exercise (group work or solo)]({{ site.baseurl }}{% link units/palladio.md %})                                     |
+| **2:40pm-3:00pm**   | **Break**                                                                                                                    |
+| 3:00pm-4:00pm       | [Rawson & Muñoz 2019 discussion](https://miro.com/app/board/o9J_lCzO_X0=/)                                                   |
+| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                                                       |
+| 5:00pm-6:30pm       | Dream Lab Keynote: [Marisa Parham](https://english.umd.edu/directory/marisa-parham) (Zoom link sent by email and on Discord) |
 
 
 [rawson]: https://doi.org/10.5749/j.ctvg251hk.26
@@ -133,6 +132,6 @@ Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Co
 | **11:00am-11:15am** | **Break**                                                                          |
 | 11:15am-12:00pm     | [Research talk by S.E. Hackney]({{ site.baseurl }}{% link units/hackney_talk.md%}) |
 | **12:00pm-1:00pm**  | **Break**                                                                          |
-| 1:00pm-2:40pm       | TBD based on class vote                                                            |
-| **2:40pm-3:00pm**   | **Break**                                                                          |
-| 3:00pm-4:30pm       | Dream Lab Closing Share-Out                                                        |
+| 1:00pm-3:00pm       | TBD based on class vote                                                            |
+| **3:00pm-3:30pm**   | **Break**                                                                          |
+| 3:30-5:00pm         | Dream Lab Show and Tell and Closing (Zoom link sent by email and on Discord)       |

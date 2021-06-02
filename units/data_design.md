@@ -16,7 +16,7 @@ Working as a group or solo, first select potential research goals. Some possibil
 3. Trace connections between artists made by the catalog authors when, in describing the work of one artist, they mention the name of another.
 4. Look for connections between previous owners of an artwork, which are sometimes listed for the more prestigious sale lots. Can we list out which collectors sought out which artists? Can we chart connections between previous owners of the same artwork?
 
-TODO - TEXT ABOUT WHERE TO PUT YOUR MAP ON THE MIRO BOARD
+[Go to the Miro Relational Data Diagramming whiteboard](https://miro.com/app/board/o9J_lCqAXCs=/)
 
 With your group, use the "mind map" tool in Miro to build out a data design that represents the sales of artworks in this auction catalog in a way that could help you answer your selected question.
 
@@ -24,9 +24,9 @@ With your group, use the "mind map" tool in Miro to build out a data design that
 
 1. Entities: each thing (be it a `person`, a `place`, a `concept`, an `object`, etc.) that you want to independently track. Each entity represents a table in your data.
 ![Entity example]({{ site.baseurl }}/assets/img/entity.png)
-2. Attributes: each entity will have attributes - text, categorical, numerical, or date data inherent to that entity. For example, a `person` entity may have `name` and `birth_date`) attributes. Each attribute represents a column in that entity's table
+2. Attributes: each entity will have attributes - text, categorical, numerical, or date data inherent to that entity. For example, a `person` entity may have `name` and `birth_date` attributes. Each attribute represents a column in that entity's table
 ![Attributes example]({{ site.baseurl }}/assets/img/attributes.png)
-   1. *Every entity must have an `id` attribute* - a unique string or number that represents that entity and can be referred to from other tables.
+   1. *Every entity must have an `id` attribute* - a unique string or number that represents that entity, and which can be referred to from other tables.
    2. Some attributes may point to other entities, such as a person's `active_location` attribute referencing a `Location` entity, that has its own additional attributes. In traditional database parlance, this is called a "foreign key relation".
    ![Attribute relational reference]({{ site.baseurl }}/assets/img/entity_relation.png)
 
