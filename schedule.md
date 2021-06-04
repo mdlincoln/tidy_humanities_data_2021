@@ -20,9 +20,15 @@ weight: 0
 
 *All times EDT (UTC-4)*
 
+## Technology
+
+I've tried hard to make sure that this class uses the least amount of tech possible. Almost all of our work will happen in apps that are in your internet browser; only OpenRefine needs to be installed beforehand.
+
+However, Palladio and OpenRefine are not designed to work on a tablet. I strongly recommend that you use a desktop or laptop computer if possible to get the most useful experience with those exercises. You may also find it much easier to use them, and the Miro whiteboard app, if you use a computer mouse (but this isn't required.)
+
 ## On-Zoom vs. Off-Zoom participation
 
-I know it's been a year+ of far too much Zoom, and this course will only be adding more. However, I'm trying to keep many of our practical exercises flexible enough that you can either work through them with a breakout group over Zoom, or do them solo at your own pace. I've marked those sections as `(group work or solo)`. The other sections where I walk through data tidying concepts or where we discuss the readings would best be attended live on Zoom, however we will use Miro to keep a list of notes and reading reactions, so you can participate asynchronously for one of those sections if you have to miss it.
+I know it's been a year+ of far too much Zoom, and this course will only be adding more. However, I'm trying to keep many of our practical exercises flexible enough that you can either work through them with a breakout group over Zoom, or do them solo at your own pace. I've marked those sections as `(group work or solo)`. The other sections where I walk through data tidying concepts or where we discuss the readings would best be attended live on Zoom. However, we will use Miro to keep a list of notes and reading reactions collectively, so do not worry if you aren't able to participate live in a particular discussion - you will always be able to look at our collective notes and add your own independently.
 
 ## OPTIONAL Dream Lab coffee breaks
 
