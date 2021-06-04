@@ -30,7 +30,7 @@ description: |
 
 - Using inconsistent formatting for dates in different rows
 - Using different levels of percision (e.g. year vs. year+month+day) for dates **unless you are using [EDTF]**.
-- Having a date that doesn't exist, such as 2021-06-31, or 1920-02-29.
+- Having a date that doesn't exist, such as `2021-06-31`, or `1920-02-29`.
   - Note: knowing when to treat a year as a [leap year in the Gregorian calendar is more difficult than you might expect](https://en.wikipedia.org/wiki/Leap_year#Gregorian_calendar). The best way to validate your dates is to use built-in data validation in your spreadsheet or database software.
 
 [EDTF]: {{ site.basurl }}{% link units/data_types.md %}

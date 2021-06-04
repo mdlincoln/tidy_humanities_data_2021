@@ -9,7 +9,7 @@ Goal: to create a data design that can represent the information contained in th
 
 <https://archive.org/details/catalogueofhighl00chri/page/n13/mode/2up>
 
-Working as a group or solo, first select potential research goals. Some possibilities include:
+Working as a group or solo, first select potential goals. Some possibilities include:
 
 1. Track which artists, or nationalities/regions of artists commanded the highest or the lowest prices. (hint: the handwritten three-part numbers represent British sterling, represented as `pounds.shillings.pence`)
 2. Identify recurring words or rhetorical strategies used by the auction authors, and whether they are associated with the type of artwork or the nationality of the artist
@@ -30,8 +30,8 @@ With your group, use the "mind map" tool in Miro to build out a data design that
 3. Some attributes may point to other entities, such as a person's `active_location` attribute referencing a `Location` entity, that has its own additional attributes. In traditional database parlance, this is called a "foreign key relation".
    ![Attribute relational reference]({{ site.baseurl }}/assets/img/entity_relation.png)
 
-Remember, the goal isn't to actually enter all the data into tables, but to try and come up with the *set of tables* that could do the job right. That said, make sure to test out your data design by using the table tool in Miro to create the tables with the appropriate columns and try to fill out a few rows.
+Remember, the goal isn't to actually enter all the data from the auction catalog into tables, but to try and come up with the *set of tables* that could do the job right. That said, make sure to test out your data design by using the table tool in Miro to create the tables with the appropriate columns and try to fill out a few rows.
 
-Consider Mark Merry's source-oriented <-> method oriented axis of historical database design: will you try to create a data design that will capture every single eccentricity of the original printed and hand-annotated auction catalogue? Or will you make a focused database that only collects the information vital to your chosen question? As Merry suggests, you will likely choose a middle path.
+Consider Mark Merry's source-oriented <-> method oriented axis of historical database design: will you try to create a data design that will capture every single eccentricity of the original printed and hand-annotated auction catalogue? Or will you make a focused database that only collects the information vital to your chosen goal? As Merry suggests, you will likely choose a middle path.
 
 Although there are certainly better and worse approaches to designing a historical database, **there is no one CORRECT data design** for this exercise. After working out designs individually or in breakout groups, we'll reconvene to share and compare our different solutions.

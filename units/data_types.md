@@ -20,9 +20,9 @@ description: |
 ## Dates
 
 - LEARN AND USE **EDTF** WHENEVER POSSIBLE It handles many needs in a way that computers can read:
-  - dates with varying precision (1970, 1991-01, 2021-04-06)
-  - dates that are approximate (1970)~ or uncertain (1970?)
-  - date ranges (1980/2010)
+  - dates with varying precision (`1970`, `1991-01`, `2021-04-06`)
+  - dates that are approximate (`1970~`) or uncertain (`1970?`)
+  - date ranges (`1980/2010`)
   - There are [easy tools](https://matthewlincoln.net/pages/edtf.html) that convert EDTF dates into precise date ranges used by most software.
 - Consider whether you are recording single dates vs. temporal periods with both a start & end date.
 
