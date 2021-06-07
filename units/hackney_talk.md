@@ -3,13 +3,11 @@ title: Research Talk by Shack Hackney
 date: 2021-06-17
 ---
 
-Shack Hackney will present "How Do You Spell '😤'?: The expansion of Unicode and the blurred line between text and image in digital space."
+Shack Hackney will present "Data Context and Structure within Unicode and the Standardization of Digital Character-Encoding"
 
-Fugiat non ut sit fugiat qui consequat irure magna enim et commodo Lorem. Do esse consectetur voluptate magna consequat consequat ad officia dolore. Lorem deserunt in veniam reprehenderit cupidatat occaecat minim nostrud nostrud aliqua. Laborum culpa nostrud duis fugiat.
+The infrastructures that we use to navigate the world often become invisible as they become indispensable. However, critical examination of information systems is necessary to understand their implicit biases, and the ways that they invite some types of engagement, and restrict others. Structures of power continue to be replicated in the ways that technologies are deployed in our lives, and the inability to access and assess the standards which make digital communication possible risks the uncritical perpetuation of those power structures. The moments of rupture, when an established system takes on a new facet with unintended consequences, can be an important moment of visibility, where we are able to reveal the ideological position of its creators, and the ways that its users adapt their own behaviors to it, or push back against its uncomfortable constraints. The introduction of emojis to the Unicode Standard, and their widespread adoption over the decade from 2006-2017 is one such moment of transition.
 
-Labore amet laboris ad do enim nisi. Irure ipsum fugiat voluptate laborum in adipisicing exercitation proident. Fugiat aliqua aliqua tempor duis sint fugiat. Ad reprehenderit ipsum eu ipsum sunt. Laboris sit fugiat est minim nisi sunt. Eu nulla nulla ipsum magna duis fugiat cupidatat quis excepteur.
-
-Ut excepteur eu commodo aute ipsum dolor ullamco veniam fugiat. Consectetur in mollit ad officia deserunt fugiat dolor aute cillum qui id occaecat non eiusmod. Eiusmod est velit est ut irure sint. Quis est aliquip cupidatat amet velit fugiat velit sint sint ad. Laboris occaecat non aute laborum pariatur est non aliquip id mollit adipisicing excepteur cupidatat. Sit dolor consequat voluptate sunt ullamco minim irure proident occaecat velit. Nostrud consequat anim consequat in sint eiusmod labore.
+In this talk, I will discuss the data sources for my dissertation project on the Unicode Standard, my justification for the use of those sources, and the methods for gathering, cleaning, and presenting that data in service of my research questions.
 
 ---
 
