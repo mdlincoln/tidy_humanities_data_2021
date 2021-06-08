@@ -55,19 +55,19 @@ Rawson, Katie, and Trevor Muñoz. “Against Cleaning.” In *Debates in the Dig
 
 ### Schedule
 
-| Time                | Activity                                                                                                                     |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 9:00am-10:00am      | Dream Lab Welcome (Zoom link sent by email and on Discord)                                                                   |
-| **10:00am-10:15am** | **Break**                                                                                                                    |
-| 10:15am-10:45am     | Tidy Data Orientation                                                                                                        |
-| 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}{% link units/data_commonalities.md %})                                    |
-| **12:00pm-1:00pm**  | **Break**                                                                                                                    |
-| 1:00pm-1:20pm       | Palladio introduction                                                                                                        |
-| 1:20pm-2:40pm       | [Palladio exercise (group work or solo)]({{ site.baseurl }}{% link units/palladio.md %})                                     |
-| **2:40pm-3:00pm**   | **Break**                                                                                                                    |
-| 3:00pm-4:00pm       | [Rawson & Muñoz 2019 discussion](https://miro.com/app/board/o9J_lCzO_X0=/)                                                   |
-| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                                                       |
-| 5:00pm-6:30pm       | Dream Lab Keynote: [Marisa Parham](https://english.umd.edu/directory/marisa-parham) (Zoom link sent by email and on Discord) |
+| Time                | Activity                                                                                                                                                                                                                                 |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | Dream Lab Welcome (Zoom link sent by email and on Discord)                                                                                                                                                                               |
+| **10:00am-10:15am** | **Break**                                                                                                                                                                                                                                |
+| 10:15am-10:45am     | Tidy Data Orientation                                                                                                                                                                                                                    |
+| 10:45am-12:00pm     | [Data Commonalities Icebreaker]({{ site.baseurl }}{% link units/data_commonalities.md %})                                                                                                                                                |
+| **12:00pm-1:00pm**  | **Break**                                                                                                                                                                                                                                |
+| 1:00pm-1:20pm       | Palladio introduction                                                                                                                                                                                                                    |
+| 1:20pm-2:40pm       | [Palladio exercise (group work or solo)]({{ site.baseurl }}{% link units/palladio.md %})                                                                                                                                                 |
+| **2:40pm-3:00pm**   | **Break**                                                                                                                                                                                                                                |
+| 3:00pm-4:00pm       | [Rawson & Muñoz 2019 discussion](https://miro.com/app/board/o9J_lCzO_X0=/)                                                                                                                                                               |
+| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                                                                                                                                                                   |
+| 5:00pm-6:30pm       | Dream Lab Keynote: [Marisa Parham](https://pricelab.sas.upenn.edu/events/dream-lab-keynote-marisa-parham) (Zoom link sent by email and on Discord - **You do NOT need to sign up via EventBrite to attend if you're already a student**) |
 
 
 [rawson]: https://doi.org/10.5749/j.ctvg251hk.26
