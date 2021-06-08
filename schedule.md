@@ -108,12 +108,12 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 | Time                | Activity                                                                                     |
 | ------------------- | -------------------------------------------------------------------------------------------- |
 | 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                                       |
-| 10:00-11:00am       | [Posner 2015][posner] discussion                                                             |
+| 10:00-11:00am       | [Posner 2015 discussion](https://miro.com/app/board/o9J_lCzRiLs=/)                           |
 | **11:00am-11:15am** | **Break**                                                                                    |
 | 11:15am-12:00pm     | [Identifying data messes]({{ site.baseurl }}{% link units/data_messes.md %})                 |
 | **12:00pm-1:00pm**  | **Break**                                                                                    |
 | 1:00pm-1:20pm       | Intro to Open Refine                                                                         |
-| 1:20pm-2:40pm       | [OpenRefine Exercise (group work or solo)][{{ site.baseurl }}{% link units/openrefine.md %}] |
+| 1:20pm-2:40pm       | [OpenRefine Exercise (group work or solo)]({{ site.baseurl }}{% link units/openrefine.md %}) |
 | **2:40pm-3:00pm**   | **Break**                                                                                    |
 | 3:00pm-3:30pm       | OpenRefine reactions and tips                                                                |
 | 3:30pm-4:00pm       | Thursday open session planning                                                               |
@@ -133,7 +133,7 @@ Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Co
 | Time                | Activity                                                                           |
 | ------------------- | ---------------------------------------------------------------------------------- |
 | 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                             |
-| 10:00am-11:00am     | [Langmead & Newbury 2020 discussion][proxies]                                      |
+| 10:00am-11:00am     | [Langmead & Newbury 2020 discussion](https://miro.com/app/board/o9J_lCy3-1M=/)     |
 | **11:00am-11:15am** | **Break**                                                                          |
 | 11:15am-12:00pm     | [Research talk by S.E. Hackney]({{ site.baseurl }}{% link units/hackney_talk.md%}) |
 | **12:00pm-1:00pm**  | **Break**                                                                          |
