@@ -103,24 +103,22 @@ Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital H
 
 [posner]: https://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/
 
-[phor]: https://doi.org/10.46430/phen0023
-
 ### Schedule
 
-| Time                | Activity                                                                     |
-| ------------------- | ---------------------------------------------------------------------------- |
-| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                       |
-| 10:00-11:00am       | [Posner 2015][posner] discussion                                             |
-| **11:00am-11:15am** | **Break**                                                                    |
-| 11:15am-12:00pm     | [Identifying data messes]({{ site.baseurl }}{% link units/data_messes.md %}) |
-| **12:00pm-1:00pm**  | **Break**                                                                    |
-| 1:00pm-1:20pm       | Intro to Open Refine                                                         |
-| 1:20pm-2:40pm       | [Open Refine Exercise (group work or solo)][phor]                            |
-| **2:40pm-3:00pm**   | **Break**                                                                    |
-| 3:00pm-3:30pm       | Open Refine reactions and tips                                               |
-| 3:30pm-4:00pm       | Thursday open session planning                                               |
-| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                       |
-| 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                                      |
+| Time                | Activity                                                                                     |
+| ------------------- | -------------------------------------------------------------------------------------------- |
+| 9:00am-10:00am      | [*OPTIONAL* 1-on-1 consults][consults]                                                       |
+| 10:00-11:00am       | [Posner 2015][posner] discussion                                                             |
+| **11:00am-11:15am** | **Break**                                                                                    |
+| 11:15am-12:00pm     | [Identifying data messes]({{ site.baseurl }}{% link units/data_messes.md %})                 |
+| **12:00pm-1:00pm**  | **Break**                                                                                    |
+| 1:00pm-1:20pm       | Intro to Open Refine                                                                         |
+| 1:20pm-2:40pm       | [OpenRefine Exercise (group work or solo)][{{ site.baseurl }}{% link units/openrefine.md %}] |
+| **2:40pm-3:00pm**   | **Break**                                                                                    |
+| 3:00pm-3:30pm       | OpenRefine reactions and tips                                                                |
+| 3:30pm-4:00pm       | Thursday open session planning                                                               |
+| 4:00pm-5:00pm       | [*OPTIONAL* 1-on-1 consults][consults]                                                       |
+| 5:00pm-6:00pm       | *OPTIONAL* Dream Lab Discord Happy Hour                                                      |
 
 ## Thursday, June 17
 
