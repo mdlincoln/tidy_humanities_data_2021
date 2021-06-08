@@ -7,7 +7,6 @@ description: |
 
 ## [Miro whiteboard on Data Messes](https://miro.com/app/board/o9J_lC-HL_A=/)
 
-
 ## Column validity errors
 
 - A column has duplicated values when it is supposed to have unique values
@@ -21,16 +20,13 @@ description: |
 - Using an inconsistent strategy for multi-valued cells
   - There are several valid solutions to entering multi-valued fields in a record, but you must pick one and stick with it
 
-
 ## Categorical / controlled columns with misspellings or close-matches
 
 - Values in a column that you want to match up across records (like people's names, location names) must have identical spelling and formatting. Small typos will be recognized as entirely different values by a computer.
 
 ## The `ANONYMOUS` problem
 
-- If you intend to filter, count, or do other computing with a table based on a certain column, every value in that column must represent a specific instance of the thing to be counted (such as a person, a location, a concept.) If you put `ANONYMOUS` into an `author` column, any analytical process will count that as a single actual person! Alternatives:
-  - If all you need to record is the absence of information, then leave the cell blank
-  - For certain kinds of analyses like network analysis, you may need to artificially create individual unidentified entites, like `anonymous1`, `anonymous2` etc. The benefit of this is it allows you to add attributes about entities that aren't uniquely identified but about which we know some things. For example, you could have a table of all your people, with `anonymous827` having an assumed nationality of `German` and a rough range of active dates.
+See the [missing data notes in Data Types]({{ site.baseurl }}{% link units/data_types.md %}#missing-data).
 
 ## Date validity errors
 
@@ -39,7 +35,7 @@ description: |
 - Having a date that doesn't exist, such as `2021-06-31`, or `1920-02-29`.
   - Note: knowing when to treat a year as a [leap year in the Gregorian calendar is more difficult than you might expect](https://en.wikipedia.org/wiki/Leap_year#Gregorian_calendar). The best way to validate your dates is to use built-in data validation in your spreadsheet or database software.
 
-[EDTF]: {{ site.basurl }}{% link units/data_types.md %}
+[EDTF]: {{ site.baseurl }}{% link units/data_types.md %}
 
 ## The Dreaded Notes Field
 
@@ -61,4 +57,6 @@ It's very useful to have a free-text notes field to capture info for a human rea
 | environmentalism                  |
 
 Ideally, a column contains just one kind of information - be it a string value with a title, or a categorical column that may have multiple values from a controlled vocabulary list. Notes to yourself or to users of your data are distinct pieces of information that belong in their own column. If you often need to qualify data in a particular column (like this example of a `subject` column,) you probably need to make an additional column like `subject_notes` so that you know the text in that field is a note about the subject field for that record, distinguishing it from a note about some other column, or general notes about the record itself that aren't specific to an existing field.
+
+## Using formatting to encode data
 

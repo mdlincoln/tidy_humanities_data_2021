@@ -28,8 +28,11 @@ description: |
 
 ## Text
 
-- Short texts vs. complex/formatted text
+- Short texts vs. long/complex text
+  - Most spreadsheet software can properly store relatively large amounts of text in individual cells and export it correctly to a CSV file. However if you have particularly long texts, like the full texts of an article or book, it is advisable to save the full text of each individual work to its own file with a unique filename, and put that filename into your tables instead. This way, you can store and update the data *about* that text independently from the long text itself. This is a common data management practice for text analysis projects.
 - Character encodings
+  - [Character encodings are a complicated topic](https://www.w3.org/International/questions/qa-what-is-encoding), but they are generally to blame when you open up someone else's data in your spreadsheet program of choice, and the characters (particularly characters with accents or non-Latin characters) appear garbled. This is because the other person saved their data using one character encoding, and your program tried to open it with a different encoding.
+  - By in large, when making and saving your own data, you should save it as UTF-8, an encoding that handles a wide range of non-Latin characters. Google Sheets will do this for you; Microsoft Excel will still often try to save it using older encodings that can mangle your text. When exporting to CSV, always make sure to select UTF-8 as your encoding.
 
 ## Categories
 
@@ -56,7 +59,9 @@ Several different approaches:
 
 ## Missing data
 
-
+- If you intend to filter, count, or do other computing with a table based on a certain column, every value in that column must represent a specific instance of the thing to be counted (such as a person, a location, a concept.) If you put `ANONYMOUS` into an `author` column, any analytical process will count that as a single actual person! Alternatives:
+  - If all you need to record is the absence of information, then leave the cell blank
+  - For certain kinds of analyses like network analysis, you may need to artificially create individual unidentified entities, like `anonymous1`, `anonymous2` etc. The benefit of this is it allows you to add attributes about entities that aren't uniquely identified but about which we know some things. For example, you could have a table of all your people, with `anonymous827` having an assumed nationality of `German` and a rough range of active dates.
 
 ## Uncertain data
 
