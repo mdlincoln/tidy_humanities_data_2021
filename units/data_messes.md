@@ -18,7 +18,7 @@ description: |
 - Values that belong in one row are in another
 - Entering multiple semantically-different pieces of information into the same column. When in doubt, split it out! It's always easier to have the computer merge data back into one column than to split it out after you've entered it.
 - Using an inconsistent strategy for multi-valued cells
-  - There are several valid solutions to entering multi-valued fields in a record, but you must pick one and stick with it
+  - There are [several valid solutions to entering multi-valued fields]({{ site.baseurl }}{% link units/data_types.md %}#multiple-values) in a record, but you must pick one and stick with it
 
 ## Categorical / controlled columns with misspellings or close-matches
 
