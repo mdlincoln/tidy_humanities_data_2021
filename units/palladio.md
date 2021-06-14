@@ -91,6 +91,8 @@ This means some complexities that _are_ represented in the Knoedler data, like t
 
 ### Reflection questions
 
+[**Record your reactions in the Miro board for this exercise.**](https://miro.com/app/board/o9J_lC_vrZQ=/)
+
 The dataset we are using is several degrees removed from the original historical events of Knoedler's sales and purchases of artworks. Based on all the description here, reflect on what information might be lost at each of these stages.
 
 (I suggest you make some initial notes based on what you've read so far, then return to these questions after you have finished the rest of the walkthrough in order to add more examples that jump out once you start to visualize the data):
@@ -153,6 +155,9 @@ Palladio also understands _timespans_, or activities that have a start and end d
 
 ### Reflection Questions
 
+[**Record your reactions in the Miro board for this exercise.**](https://miro.com/app/board/o9J_lC_vrZQ=/)
+
+
 1. How did the volume of individual sales per year change over this period? Contrast that to the sum of sale prices per year - Knoedler's raw revenue. What differences do you notice? What questions does this suggest about the changing nature of Knoedler's art dealing business?
 2. Using the "Group by" field, look for trends in the `genre` or `object_type` that Knoedler sold over this time period - both in terms of number of sales, summed prices, or even size of artworks. Try some combinations - what patterns do you notice?
     - Based on the descriptions of `genre` and `object_type` in the data dictionary above, what caveats should we keep in mind when looking at visualizations of those categories?
@@ -186,6 +191,9 @@ Using the same timeline filter that we did with the Table view, try selecting on
 
 ### Reflection questions
 
+[**Record your reactions in the Miro board for this exercise.**](https://miro.com/app/board/o9J_lC_vrZQ=/)
+
+
 1. How did the geographic distribution of Knoedler's buyers change over the life of the firm between 1870 and 1970? What further historical questions does this suggest?
 
 ## Create networks
@@ -206,6 +214,8 @@ Finally, you may notice "Knoedler's" is in this network... but if this is only a
 Because of their many branches, Knoedler often makes entries that appear as though it's buying from itself! Depending on what kinds of questions we are asking, we might end up filtering out these sales from our data... or choose to inspect those records even more closely. Use a "Facet" by `seller` to try and show all sales _except_ the one where "Knoedler's" is the seller.
 
 ### Reflection questions
+
+[**Record your reactions in the Miro board for this exercise.**](https://miro.com/app/board/o9J_lC_vrZQ=/)
 
 1. We encoded `seller_type` and `buyer_type` as part of the data to distinguish between individual collectors and artists vs. entities like dealers or museums. Try creating a network with the source being `seller_type` and the target being `buyer_type`. Try visualizing the changing network over time using the timeline facet. What do you notice about the changing preponderance of different buyer or seller types over time?
 2. Experiment by setting the "Source" field to `artist`, `artist_nationality`, or `genre` - can you find collectors who seemed to buy lots of one particular nationality or genre? Conversely, can you find collectors who bought a very diverse set of works?
