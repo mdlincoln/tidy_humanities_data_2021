@@ -9,6 +9,8 @@ description: |
 * TOC
 {:toc}
 
+## [Miro board for data types (using Knoedler data from Monday)](https://miro.com/app/board/o9J_l_LUDX4=/)
+
 ## Numbers
 
 - Counting vs. measuring
@@ -16,15 +18,6 @@ description: |
   - A column representing a measurement may have decimals (often referred to as a "real" number, or a "float" in some database software) and may be negative
 - Dealing with units and dimensions
   - If it is important for you to be able to filter & sort these measurements (and not just store them to read later) then you should endeavor to have consistent units and record each dimension in a separate column.
-
-## Dates
-
-- LEARN AND USE **EDTF** WHENEVER POSSIBLE It handles many needs in a way that computers can read:
-  - dates with varying precision (`1970`, `1991-01`, `2021-04-06`)
-  - dates that are approximate (`1970~`) or uncertain (`1970?`)
-  - date ranges (`1980/2010`)
-  - There are [easy tools](https://matthewlincoln.net/pages/edtf.html) that convert EDTF dates into precise date ranges used by most software.
-- Consider whether you are recording single dates vs. temporal periods with both a start & end date.
 
 ## Text
 
@@ -73,3 +66,12 @@ Think very carefully before you endeavor to encode uncertainty into your data. L
 - If you must use an uncertainty vocabulary, consider carefully how you will communicate it to your audience / data re-users / yourself 12 months from now.
   - Avoid numeric uncertainty scales: different readers will interpret the same number very differently.
   - Use as small and concrete a vocabulary as possible. If it takes you more than a few seconds to judge and enter the uncertainty in a record, than you are not dealing with usefully categorizable uncertainty. You won't be able to usefully query it if the vocabulary is too rich and ambiguous, and so you might as well just have a non-controlled notes field about it.
+
+## Dates
+
+- LEARN AND USE **EDTF** WHENEVER POSSIBLE It handles many needs in a way that computers can read:
+  - dates with varying precision (`1970`, `1991-01`, `2021-04-06`)
+  - dates that are approximate (`1970~`) or uncertain (`1970?`)
+  - date ranges (`1980/2010`)
+  - There are [easy tools](https://matthewlincoln.net/pages/edtf.html) that convert EDTF dates into precise date ranges used by most software.
+- Consider whether you are recording single dates vs. temporal periods with both a start & end date.
