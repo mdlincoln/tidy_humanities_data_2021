@@ -32,6 +32,10 @@ I know it's been a year+ of far too much Zoom, and this course will only be addi
 
 We've left flex time on Thursday to talk through issues or questions that aren't covered in the other modules. At any time Monday through Wednesday, [use the Open Questions Board](https://miro.com/app/board/o9J_lCzSRN8=/) to drop notes about concepts or questions you'd like to learn more about, and then based on community voting we'll hold some informal discussions or tutorials on Thursday.
 
+## Software Suggestions
+
+[Miro board to collect software suggestions for data tidying, management, and visualization](https://miro.com/app/board/o9J_l_QwCrU=/)
+
 ## OPTIONAL Dream Lab coffee breaks
 
 Each day, the Dream Lab leaders will be hosting short "coffee breaks" on the **Water Cooler** voice channel on Discord (sometimes these overlap with our course breaks, other times not):
