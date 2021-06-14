@@ -9,8 +9,6 @@ description: |
 * TOC
 {:toc}
 
-## [Miro board for data types (using Knoedler data from Monday)](https://miro.com/app/board/o9J_l_LUDX4=/)
-
 ## Numbers
 
 - Counting vs. measuring
@@ -69,9 +67,9 @@ Think very carefully before you endeavor to encode uncertainty into your data. L
 
 ## Dates
 
-- LEARN AND USE **EDTF** WHENEVER POSSIBLE It handles many needs in a way that computers can read:
+- [LEARN AND USE **EDTF** WHENEVER POSSIBLE](https://miro.com/app/board/o9J_l_LUDX4=/) It handles many needs in a way that computers can read:
   - dates with varying precision (`1970`, `1991-01`, `2021-04-06`)
   - dates that are approximate (`1970~`) or uncertain (`1970?`)
   - date ranges (`1980/2010`)
-  - There are [easy tools](https://matthewlincoln.net/pages/edtf.html) that convert EDTF dates into precise date ranges used by most software.
+  - There are [easy tools](https://matthewlincoln.net/pages/edtf.html) that convert EDTF dates into precise date ranges used by most software, allowing you to create an `earliest_date` and `latest_date` column for most EDTF strings.
 - Consider whether you are recording single dates vs. temporal periods with both a start & end date.
