@@ -45,6 +45,8 @@ There are also scheduled "happy hour" virtual gatherings on Tuesday and Wednesda
 
 These virtual gatherings are a chance to meet participants in the other classes. Think of these like the coffee breaks or receptions at a conference: on some days I am excited and energized to participate, and on others I decide that I need some personal quiet time instead. You should feel the freedom to do either!
 
+## [ALL MIRO BOARDS LINK](https://miro.com/welcome/a2h1ZnF3QWFVVVpIc3FkS1NhR1VhU3Y1WTV2RldnOHBiUWg1ajVvRURuMnRhdnNoaEhMNTBuSGdQNzVJSEVHR3wzMDc0NDU3MzUxMzY0Mzc3Mjgw)
+
 *All times EDT (UTC-4)*
 
 ## Monday, June 14
