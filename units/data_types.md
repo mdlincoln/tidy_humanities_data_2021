@@ -9,6 +9,8 @@ description: |
 * TOC
 {:toc}
 
+## Sample data: [Artworks depicting Amsterdam](https://docs.google.com/spreadsheets/d/1P7or2IH0FZG0UsqHJRt71L3I8Ptxc80rxE7bai7ecUA/edit#gid=1462177897)
+
 ## Numbers
 
 - Counting vs. measuring
