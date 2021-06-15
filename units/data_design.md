@@ -18,7 +18,7 @@ Working as a group or solo, first select potential goals. Some possibilities inc
 
 [Go to the Miro Relational Data Diagramming whiteboard](https://miro.com/app/board/o9J_lCqAXCs=/)
 
-With your group, use the "mind map" tool in Miro to build out a data design that represents the sales of artworks in this auction catalog in a way that could help you answer your selected question.
+With your group, use the "mind map" tool in Miro to build out a data design that represents the sales of artworks in this auction catalog in a way that could help you answer your selected question. (you may need to look in the `...` menu to find it - you can drag it to your toolbar.)
 
 ![Miro mind map tool]({{ site.baseurl }}/assets/img/mind_map.png)
 
