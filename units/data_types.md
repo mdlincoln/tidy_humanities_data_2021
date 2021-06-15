@@ -44,11 +44,11 @@ Several different approaches:
   - Pros: simple to enter and allows a flexible number of values.
   - Cons: requires that your processing software can handle multi-valued fields with delimiters \[OpenRefine and Palladio both can do this\]; the multiple values cannot structure complex information.
 - Use multiple, numbered columns
-  - Pros: simple to enter data without typos; very clear how to handle the data (`author1`, `author2`, etc.)
+  - Pros: simple to enter data without typos; very clear how to handle the data (`author1`, `author2`, etc.); Easier to set up data validation within spreadsheet programs like Google Sheets or Excel.
   - Cons: you need to pre-determine the number of possible values at the start; extra processing required later on if you want to filter or count the values across those columns
-- Use a linked table
-  - Pros: handles one-to-many or many-to-many relationships between entities; lets you add additional attributes to each instance of a value, such as adding relationship types or durations to a person's relationships to other people; allows a flexible number of values; a common solution in database software.
-  - Cons: must maintain additional tables; use joins or `VLOOKUP` in Excel/Google Sheets to process the data; Difficult to maintain data validity without a true database application.
+- Use a linked table to describe the relationships
+  - Pros: handles one-to-many or many-to-many relationships between entities; lets you add additional attributes to each relationship, such as adding relationship types or durations to a person's relationships to other people; allows a flexible number of values; a common solution in database software.
+  - Cons: must maintain additional tables; use joins or `VLOOKUP` in Excel/Google Sheets to process the data; Difficult to maintain data validity without a true relational database.
 
 ## Missing data
 
