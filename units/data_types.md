@@ -11,6 +11,11 @@ description: |
 
 ## Sample data: [Artworks depicting Amsterdam](https://docs.google.com/spreadsheets/d/1P7or2IH0FZG0UsqHJRt71L3I8Ptxc80rxE7bai7ecUA/edit#gid=1462177897)
 
+## Identifiers
+
+- Each table should have a column that can function as a unique identifier - must have a value, and that value can't be duplicated in other rows. Can be a number, a unique string
+- Necessary if you want to reference one table from another table
+
 ## Numbers
 
 - Counting vs. measuring
