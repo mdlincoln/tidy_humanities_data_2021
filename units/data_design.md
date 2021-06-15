@@ -30,7 +30,7 @@ With your group, use the "mind map" tool in Miro to build out a data design that
 3. Some attributes may point to other entities, such as a person's `active_location` attribute referencing a `Location` entity, that has its own additional attributes. In traditional database parlance, this is called a "foreign key relation".
    ![Attribute relational reference]({{ site.baseurl }}/assets/img/entity_relation.png)
 
-Remember, the goal isn't to actually enter all the data from the auction catalog into tables, but to try and come up with the *set of tables* that could do the job right. That said, make sure to test out your data design by using the table tool in Miro to create the tables with the appropriate columns and try to fill out a few rows.
+Remember, the goal isn't to actually enter all the data from the auction catalog into tables, but to try and come up with the *set of tables* that could do the job right. That said, do try to test out your data design by creating tables in a shared Google Sheets doc.
 
 Consider Mark Merry's source-oriented <-> method oriented axis of historical database design: will you try to create a data design that will capture every single eccentricity of the original printed and hand-annotated auction catalogue? Or will you make a focused database that only collects the information vital to your chosen goal? As Merry suggests, you will likely choose a middle path.
 
