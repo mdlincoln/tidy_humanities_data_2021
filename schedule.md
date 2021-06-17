@@ -143,6 +143,6 @@ Langmead, Alison, and David Newbury. “Pointers and Proxies: Thoughts on the Co
 | **11:00am-11:15am** | **Break**                                                                          |
 | 11:15am-12:00pm     | [Research talk by S.E. Hackney]({{ site.baseurl }}{% link units/hackney_talk.md%}) |
 | **12:00pm-1:00pm**  | **Break**                                                                          |
-| 1:00pm-3:00pm       | TBD based on class vote                                                            |
-| **3:00pm-3:30pm**   | **Break**                                                                          |
+| 1:00pm-2:30pm       | [Data documentation](https://miro.com/app/board/o9J_l-uM204=/)                     |
+| **2:30pm-3:30pm**   | **Break**                                                                          |
 | 3:30-5:00pm         | Dream Lab Show and Tell and Closing (Zoom link sent by email and on Discord)       |
