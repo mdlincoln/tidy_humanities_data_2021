@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tidy Data for Humanists
+title: Tidy Data for Humanists - 2021
 ---
 
 ### A University of Pennsylvania Dream Lab course originally offered online June 14-17 2021.
